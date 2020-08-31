@@ -1,4 +1,4 @@
-# CarND-Controls-PID
+# C++ PID Controller
 
 ### Introduction
 In this project, a PID(proportional/ integral/ differential) controller is built along with manualy tuned hyperparameters. The result is tested on the simulator and, from the simluation, the car can drive endlessly without falling out of hte track. 
